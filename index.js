@@ -1,5 +1,6 @@
-var login = require('./lib/login');
+var login = require('./lib/login'),
+    question = require('./lib/question');
 
-login().then(function(ret){
-  console.log('login success', ret);
+login().then(function(){
+  // question.get('31476726');
 });

@@ -4,6 +4,7 @@ module.exports = {
     home: 'http://www.zhihu.com/',
     profile: 'http://www.zhihu.com/settings/profile',
     captcha: 'http://www.zhihu.com/captcha.gif',
-    question: 'http://www.zhihu.com/question/'
+    question: 'http://www.zhihu.com/question/',
+    collection: 'http://www.zhihu.com/collection/'
   }
 };
